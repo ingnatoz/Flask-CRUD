@@ -1,4 +1,4 @@
-# Flask && MySQL
+# Flask, MySQL (SQLAlchemy and Marshmallow), Docker-compose
 ## RUN APP
 - docker-compose up -d
 
